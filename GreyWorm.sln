@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22310.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyWorm.Console", "GreyWorm.Console\GreyWorm.Console.csproj", "{52E73FD3-699A-4592-A9E1-91A05DA2771A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyWorm", "GreyWorm\GreyWorm.csproj", "{ADEB8B54-D891-453D-94F8-461BBFC6DB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Network", "Network\Network.csproj", "{DD291599-BCA3-405C-990B-56BA59028226}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52E73FD3-699A-4592-A9E1-91A05DA2771A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E73FD3-699A-4592-A9E1-91A05DA2771A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E73FD3-699A-4592-A9E1-91A05DA2771A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E73FD3-699A-4592-A9E1-91A05DA2771A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADEB8B54-D891-453D-94F8-461BBFC6DB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADEB8B54-D891-453D-94F8-461BBFC6DB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADEB8B54-D891-453D-94F8-461BBFC6DB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADEB8B54-D891-453D-94F8-461BBFC6DB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD291599-BCA3-405C-990B-56BA59028226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD291599-BCA3-405C-990B-56BA59028226}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD291599-BCA3-405C-990B-56BA59028226}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD291599-BCA3-405C-990B-56BA59028226}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

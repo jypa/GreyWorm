@@ -4,7 +4,7 @@ This one obeys
 
 ## Usage
 
-Use these flags when running the bot
+Run GreyWorm.Console.exe with these flags when running the bot.
 
 flag | description    | default
 -----|----------------|--------

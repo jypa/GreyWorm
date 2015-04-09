@@ -6,8 +6,10 @@ This one obeys
 
 Use these flags when running the bot
 
-  -n, bot name, default GreyWorm
-  -a, server address, default locahost
-  -p, server port, default 6969
-  -t, tick adjust, default 100
+flag | description    | default
+-----|----------------|--------
+-n   | bot name       | GreyWorm
+-a   | server address | locahost
+-p   | server port    | 6969
+-t   | tick adjust    | 100
   
